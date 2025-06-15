@@ -11,5 +11,10 @@
 - Which food item  has highest contribution towards inflation in Both Rural and Urban sector and what was rate ?
 - How Covid-19 has affected the inflation in Urban and Rural area ?
 - How the imported Crude oil effects the price of meat and fish(Food Category) 
-  
-  
+
+  ### Process
+  - Verify data for any annomalies and sort out the same
+  - Make sure data is consistent and clean  with respect to data type, format and value used.
+  - Create visual as per the questioned asked
+### Data_analysis
+-<a href ="https://github.com/Lakshmiart/Excel_Project/blob/main/CPI%20Inflation%20data_analysis.csv">CPI-Inflation_Data-anlysis<a/>
